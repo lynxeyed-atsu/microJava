@@ -129,7 +129,6 @@ int main(void){
 
 	board_init();
 	
-	
 	ujLog("uJ starting!\n");
 	
 	#ifdef SDLOADER
